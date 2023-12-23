@@ -6,3 +6,5 @@ Güz yarı yılı web programlama dersi proje ödevi için hazırlanan github do
 2. Günde genel olarak kullanabileceğim tasarımlar ve hazır tamplateler aradım.
 
 3. Günde genel tasarıma karar verdim.
+
+4. Günde kodları yazmyaa başladım. 
