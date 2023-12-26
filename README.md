@@ -8,3 +8,5 @@ Güz yarı yılı web programlama dersi proje ödevi için hazırlanan github do
 3. Günde genel tasarıma karar verdim.
 
 4. Günde kodları yazmyaa başladım. 
+
+5. Bugün çok dersim olduğundan ilerleme kaydedemedim.
