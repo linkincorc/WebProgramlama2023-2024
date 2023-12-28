@@ -12,4 +12,6 @@ Güz yarı yılı web programlama dersi proje ödevi için hazırlanan github do
 5. Bugün çok dersim olduğundan ilerleme kaydedemedim.
 
 6. Günde internetim olmadığı için çok bir şey yapamadım
+
+7. Günde internet sorunlarım devam etti ama Frontend kısımına biraz baktım 
    
