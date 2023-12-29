@@ -13,5 +13,8 @@ Güz yarı yılı web programlama dersi proje ödevi için hazırlanan github do
 
 6. Günde internetim olmadığı için çok bir şey yapamadım
 
-7. Günde internet sorunlarım devam etti ama Frontend kısımına biraz baktım 
+7. Günde internet sorunlarım devam etti ama Frontend kısımına biraz baktım
+
+8. Sitenin tasarımlarını genel anlamda bitirdim
+9. 
    
