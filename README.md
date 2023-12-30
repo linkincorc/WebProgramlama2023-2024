@@ -16,5 +16,5 @@ Güz yarı yılı web programlama dersi proje ödevi için hazırlanan github do
 7. Günde internet sorunlarım devam etti ama Frontend kısımına biraz baktım
 
 8. Sitenin tasarımlarını genel anlamda bitirdim
-9. 
+9. Genel kodları yazdım
    
